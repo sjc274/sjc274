@@ -6,8 +6,16 @@
   - [Schedule and Alarm functions in Java & Android Studio](https://github.com/sjc274/cmpt276-project-group9-naja-master)
 - <b>Program Synthesizer</b>
   - [TopDown Algorithm Enumerative Program Synthesizer in Java](https://github.com/sjc274/Synth)
+- <b>Library Management System</b>
+  - [Library Management System in Python/sqlite3 & MySQL](https://github.com/sjc274/Library-Management-System)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📝 Skill & Tools</h2>
+
+* <b>Data Analysis, Data Computation, Machine Learning, Database, MySQL, Java, C/C++, Python, Rust, Haskell, Swift, Github, Git, Microsoft Suite.</b>
+* <b>sqlite3, scikit, stats.spicy</b>
+
+
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
